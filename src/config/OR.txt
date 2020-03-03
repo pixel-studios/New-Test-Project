@@ -6,3 +6,5 @@ txtbx_UserName=.//*[@id='pa_color']
 txtbx_Password=.//*[@id='pa_size']
 btn_LogIn=/html/body/div[2]/div[2]/div/div/div[2]/div[1]/div[2]/form/div/div[2]/button
 btn_Cart=/html/body/div[2]/header/div[2]/div/div/div/ul/li/a/span/span[2]
+
+\# New Test Line Added
