@@ -11,6 +11,8 @@ public class constant {
 
     public static final String File_TestData = "testData.xlsx";
 	public static void main(String[] args) {
+		print_r(test);
+		get_tec();
 		
 
 	}
