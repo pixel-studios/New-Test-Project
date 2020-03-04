@@ -30,5 +30,5 @@ public class Normalreader {
 		}
 		
 		}
-
+//Normal Reader	
 }
